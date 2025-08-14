@@ -28,7 +28,7 @@ It includes:
 
 You can download the full PDF here:
 
-➡️ [Download Whitepaper (PDF)](https://github.com/yourusername/evse-qnx-pqc-whitepaper/raw/main/yourpaper.pdf)
+➡️ [Download Whitepaper (PDF)](https://github.com/vu3scd/Securing-EVSE-Platform-using-QNX/blob/main/Securing%20EV%20Charging%20Infrastructure%20-%20signed%20copy.pdf)
 
 ---
 
