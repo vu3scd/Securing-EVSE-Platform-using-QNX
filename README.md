@@ -51,7 +51,7 @@ This whitepaper is intended for research, design exploration, and discussion. It
 ## 🧠 Author
 
 **Sumit Chouhan**  
-TMIET | Embedded Security | Automotive Cybersecurity  
+TMIET | Enterprise and Automotive Cybersecurity  
 📧 insanemechanic@proton.me  
 🌐 [www.sumitchouhan.com](http://www.sumitchouhan.com)
 
